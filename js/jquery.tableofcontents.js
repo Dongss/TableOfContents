@@ -157,7 +157,7 @@
 
             // If no id exisits, create a unique one
             if(id == ""){
-                id = base.buildSlug($(element).text());
+                id = (Math.floor(Math.random() * 10000000000 + 1000000000));
                 element.id = id;
             };
 
