@@ -8,6 +8,8 @@ _Based on code and concept by Janko Jovanovic in his article: "Automatically gen
 
 This plugin creates a table of contents based on the <code><h1></code> through <code><h6></code> tags of a webpage, or subset of a webpage. It auto generates slug-like id's for linking if they are not present already, can optionally add "Top" links to each heading, offers the choice of nested <code><ol></code> or <code><li></code> lists or straight <code><a></code> links, and can optionally create a proportionate display based on the positioning of the headings.
 
+支持中文标题的目录生成
+
 h2. Examples
 
 * "Example 1: Standard TOC, Default Options, Bulleted List":http://fuelyourcoding.com/scripts/toc/examples/example1.html
