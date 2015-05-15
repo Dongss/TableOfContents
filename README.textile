@@ -1,4 +1,4 @@
 
 支持中文标题目录的生成
 
-使用方法见[链接](https://github.com/francois2metz/TableOfContents)
+使用方法见https://github.com/francois2metz/TableOfContents
